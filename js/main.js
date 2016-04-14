@@ -193,6 +193,7 @@ jQuery(function($) {'use strict';
 	});
 
 	// Contact form
+/**        
 	var form = $('#main-contact-form');
 	form.submit(function(event){
 		event.preventDefault();
@@ -206,7 +207,7 @@ jQuery(function($) {'use strict';
 			form_status.html('<p class="text-success">Thank you for contact us. As early as possible  we will contact you</p>').delay(3000).fadeOut();
 		});
 	});
-
+**/
 	//Pretty Photo
 	$("a[rel^='prettyPhoto']").prettyPhoto({
 		social_tools: false
