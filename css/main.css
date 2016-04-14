@@ -320,13 +320,13 @@ ul.nostyle i {
 #cta2 h2 > span {
   color: #45aed6;
 }
-#features {
+#nuestro-proyecto {
   padding: 100px 0;
 }
-#features .media.service-box:first-child {
+#nuestro-proyecto .media.service-box:first-child {
   margin-top: 80px;
 }
-#services {
+#recursos {
   padding: 100px 0 75px;
 }
 .media.service-box {
@@ -534,23 +534,23 @@ ul.nostyle i {
 #testimonial .btns {
   margin-top: 10px;
 }
-#about {
+#quienes-somos {
   padding: 100px 0;
 }
-#work-process {
+#documentacion {
   padding: 100px 0 50px;
   background: #20222e url(../images/work-process/bg.jpg) no-repeat 0 0;
   background-size: cover;
   color: #fff;
 }
-#work-process h2 {
+#documentacion h2 {
   color: #fff;
 }
-#work-process h3 {
+#documentacion h3 {
   color: #fff;
   margin-bottom: 0;
 }
-#work-process .icon-circle {
+#documentacion .icon-circle {
   display: inline-block;
   width: 80px;
   height: 80px;
@@ -559,7 +559,7 @@ ul.nostyle i {
   border-radius: 100px;
   position: relative;
 }
-#work-process .icon-circle > span {
+#documentacion .icon-circle > span {
   border-style: solid;
   border-width: 2px;
   border-color: #45aed6;
@@ -572,7 +572,7 @@ ul.nostyle i {
   top: -12px;
   color: #64686d;
 }
-#work-process h3 {
+#documentacion h3 {
   margin-bottom: 50px;
 }
 #meet-team {
